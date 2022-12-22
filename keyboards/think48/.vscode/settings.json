@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "files.associations": {
+        "*.ah2": "ahk2",
+        "*.ahk": "ahk",
+        "stdlib.h": "c"
+    }
+}
